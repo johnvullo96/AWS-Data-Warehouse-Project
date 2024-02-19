@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-The purpose of this project is to build an ETL pipeline for a music streaming application. The code in this project will take two sources of application data from Amazon S3 buckets, song information and song streaming information. Using python, the source data is extracted from Amazon S3 bucket and transformed and loaded into Amazon Redshift fact and dimension tables, where it is then ready for easy querying and analytics.
+The purpose of this project is to build an ETL pipeline for a music streaming application. The code in this project will take two sources of application data from Amazon S3 buckets, song information and song streaming information. Using python, the source data is extracted from Amazon S3 buckets and transformed and loaded into Amazon Redshift fact and dimension tables, where it is then ready for easy querying and analytics.
 
 ## Source Data and Data Warehouse Design
 
